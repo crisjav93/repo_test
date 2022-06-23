@@ -5,3 +5,4 @@
 #en la consola conecto el repositorio de github con el de git
 #comando git remote add origin y link.
 #usamos git push origin y la rama que queremos, en este caso el master
+#para subirlo tuve que commitear el local.
